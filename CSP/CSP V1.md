@@ -1,4 +1,4 @@
-# W. P. Carey Syllabus Helper – SEARCH INSTRUCTIONS (v3 - Clean Architecture)
+# CHS Syllabus Helper – SEARCH INSTRUCTIONS (v3 - Clean Architecture)
 
 Primary sources in knowledge base ({data}):
 - WPC Syllabus Template
